@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Courses"
+        android:title="Courses"
+        android:icon="@drawable/direction"/>
+    <item
+        android:id="@+id/Jobs"
+        android:title="Jobs"
+        android:icon="@drawable/businessman"/>
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile"
+        android:icon="@drawable/user"/>
+</menu>
